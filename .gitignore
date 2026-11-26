@@ -1,0 +1,11 @@
+token*.txt
+*.token
+sesion*.json
+estado-sesion*.json
+cookies*
+accounts/
+.env
+*.env
+__pycache__/
+*.png
+*.antes
