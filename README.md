@@ -6,6 +6,7 @@ Skill + herramientas para pasar páginas hechas con IA/código a GoHighLevel (GH
 - `SKILL.md`, `references/`, `scripts/`, `templates/`: la skill `gohighlevel-pages` (rutas de traspaso, hechos del builder, reglas SEO y reglas del equipo de la reunión del 25/11).
 - `tools/ghl-api/`: scripts del pipeline (abrir el Chromium con sesión, armar la página, subir borradores, verificar).
 - `tools/inventario/`: lectores de solo lectura para inventariar una subcuenta.
+- [Caso ADICIO · Ronda 4](references/adicio-fiel-ronda-4.md): resultados por borrador, causas comprobadas, arreglos probados en páginas de prueba y pendientes de preview, animaciones y editor.
 
 ## Cómo se usa
 1. Leé `SKILL.md` (el agente la carga sola si está en su carpeta de skills).
